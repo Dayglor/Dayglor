@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Dayglor. I have been working in the development area for over 8 years
-Initially I worked for 4 years with PHP and currently I work as leader of a small team that works with nodejs, react, nextjs, in a payment gateway BR @nectaco @zspay
+- 👋 Hi, I’m @Dayglor. I have been working in the development area for over 8 years. Initially I worked for 4 years with PHP and currently I work as leader of a small team that works with nodejs, react, nextjs, in a software house in Brazil @nectaco @zspay @zsystems
 
 - 👀 I’m interested in learning Kafka, Micro Service, Kubernets, CI, Observability, TerraForm, Asinble
 - 🌱 I’m currently learning currently: node, react, next, rabbitmq, SOLID, DDD, 
