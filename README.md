@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in new challenges and more money.
 - 🌱 I’m currently learnin of node, react, next, DDD, git Actions, Circle CI/CD, ECS, Kafka... and more! 
-- 📫 How to reach me dayglor@hotmail.com or +55(Brazil) 11(DD) 98287-4294 (Whatsapp)
+- 📫 How to reach me dayglor@hotmail.com or +5511982874294 (preferably contact by whatsapp)
 
 <!---
 Dayglor/Dayglor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
